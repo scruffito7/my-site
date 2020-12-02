@@ -1,0 +1,14 @@
+.carousel {
+  width:360px;
+  height:400px;
+  margin: auto;
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+
+.carousel-caption {
+  filter: invert(100%);
+}
